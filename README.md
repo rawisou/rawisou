@@ -1,8 +1,8 @@
 ### Hello!
-🤓 Currently learning how to 👩🏻‍💻
-Technigo Spring 22 student
-Born in Bangkok
-Based in Stockholm
+- 🤓 Currently learning how to 👩🏻‍💻
+- Technigo Spring 22 student
+- Born in Bangkok
+- Based in Stockholm
 
 ### Main tech stack 
 HTML
