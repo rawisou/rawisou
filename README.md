@@ -1,5 +1,6 @@
 ### Hello!
 - 🤓 Currently learning how to 👩🏻‍💻
+- Ex-Shopifolk 🛍️
 - Technigo Spring 22 student
 - Born in Bangkok
 - Based in Stockholm
