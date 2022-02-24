@@ -1,9 +1,6 @@
 ### Hello!
 - 🤓 Currently building stuff with code 👩🏻‍💻
-- Ex-Shopifolk 🛍️
 - Technigo Spring 22 student
-- Born in Bangkok
-- Based in Stockholm
 
 ### Main tech stack 
 HTML
