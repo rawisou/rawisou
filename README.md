@@ -1,6 +1,6 @@
 ### Hello!
-- 🤓 Currently building stuff with code 👩🏻‍💻
-- Technigo Spring 22 student
+
+Technigo Spring 22 student
 
 ### Main tech stack 
 HTML
