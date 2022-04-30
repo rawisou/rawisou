@@ -1,6 +1,5 @@
 ### Hello!
-
-Technigo Spring 22 student
+I put a lot of myself in my writing: https://rawisara-saman.medium.com/ and I love coding!
 
 ### Main tech stack 
 HTML
